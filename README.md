@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vishnu M.V</h1>
-<h3 align="center">Flutter Developer | Firebase | Python | UI Enthusiast</h3>
+<h3 align="center">Flutter Developer | Firebase | Play Console | Python | UI Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Crafting+Flutter+apps+with+Firebase;Problem+solver+by+logic;Stay+calm%2C+keep+coding+%F0%9F%92%BB" alt="Typing SVG" />
@@ -57,20 +57,12 @@
 
 </div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHNUMV&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNUMV&theme=radical" alt="GitHub Streak" />
-  <br />
-</p>
-
 ---
 
 ### 🚀 Projects
 
 - 🧾 [**WagesPro**](https://github.com/VISHNUMV/wagespro) — Flutter-based employee wage tracker
+- 🧾 [**Animaline**] — Pet selling platform 
 - 📦 [**Bus Expense Tracker**](https://github.com/VISHNUMV/bus-tracker) — Custom app for managing daily transport expenses
 
 ---
@@ -102,7 +94,6 @@
 ### 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNuMv07&layout=donut&theme=dark&bg_color=000000)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnuvmv&theme=github_dark" alt="languages" />
 
 ---
 ### 💰 You can help me by Donating
