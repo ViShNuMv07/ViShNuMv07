@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Vishnu M.V</h1>
 <h3 align="center">Flutter Developer | Firebase | Play Console | Python | UI Enthusiast </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Crafting+Flutter+apps+with+Firebase;Problem+solver+by+logic;Stay+calm%2C+keep+coding+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
