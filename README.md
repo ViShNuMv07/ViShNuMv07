@@ -61,7 +61,7 @@
 
 ### 🚀 Projects
 
-- 🧾 [**WagesPro**]((https://wagespro.in/)) — Flutter-based employee wage tracker
+- 🧾 [**WagesPro**](https://wagespro.in/) — Flutter-based employee wage tracker
 - 🧾 [**Animaline**] — Pet selling platform 
 - 📦 [**Bus Expense Tracker**](https://github.com/VISHNUMV/bus-tracker) — Custom app for managing daily transport expenses
 
